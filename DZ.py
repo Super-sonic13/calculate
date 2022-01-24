@@ -2,7 +2,6 @@
 x1 = int(input("Введите первое число: "))
 x2 = int(input("Введите второе число: "))
 print("Целочисленный результат:", x1 // x2, "Остаток:", x1 % x2)
-
 #Task 2
 guest_list = str(input("Enter guest list: "))
 guest_list=guest_list.lower()
